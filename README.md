@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Kim!
 
-<!--
-**phamkim60/phamkim60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior **Full Stack Web Developer** with a passion for building dynamic and user-friendly web applications. I am currently looking for an exciting new opportunity as a **Web Developer** where I can contribute and grow.
 
-Here are some ideas to get you started:
+## 🌟 Technologies & Tools I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: JavaScript, React, Redux, HTML5, CSS3/SCSS
+- **Backend**: PHP, Symfony, Laravel, WordPress
+- **Database**: MySQL
+- **Version Control**: Git, GitHub
+- **Other**: REST APIs
+
+## 👨‍💻 What I enjoy:
+
+- Creating responsive and scalable web applications.
+- Solving complex problems with efficient code.
+- Learning new technologies and take on new challenges.
